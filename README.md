@@ -9,9 +9,9 @@ Flutter UI Speed, tapi ga terlalu cepet karena ada penjelasan untuk masing-masin
 
 ## Screenshot
 
-<img src="https://github.com/indratrisnar/uispeed_booking_apartment/raw/master/pic/pick1.jpg" alt="home_page" height="540">
+<img src="https://github.com/indratrisnar/uispeed_booking_apartment/raw/master/pic/pic1.jpg" alt="home_page" height="540">
 
-<img src="https://github.com/indratrisnar/uispeed_booking_apartment/raw/master/pic/pick2.jpg" alt="detail_page" height="540">
+<img src="https://github.com/indratrisnar/uispeed_booking_apartment/raw/master/pic/pic2.jpg" alt="detail_page" height="540">
 
 
 # Tutorial :
