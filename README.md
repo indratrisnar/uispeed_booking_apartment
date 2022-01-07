@@ -4,19 +4,19 @@ Flutter UI about Booking Apartment (Rent App)
 Flutter UI Speed, tapi ga terlalu cepet karena ada penjelasan untuk masing-masing kode, salah satu penggunaan best practice kayak gimana dan lainnya.
 
 [Asset](https://unsplash.com/)
+
 [Mockup Sample](https://www.uplabs.com/posts/rent-app)
 
 ## Screenshot
 
-<img src="https://github.com/indratrisnar/d_chart/raw/master/pic/pick1.jpg" alt="home_page" height="540">
+<img src="https://github.com/indratrisnar/uispeed_booking_apartment/raw/master/pic/pick1.jpg" alt="home_page" height="540">
 
-<img src="https://github.com/indratrisnar/d_chart/raw/master/pic/pick2.jpg" alt="detail_page" height="540">
+<img src="https://github.com/indratrisnar/uispeed_booking_apartment/raw/master/pic/pick2.jpg" alt="detail_page" height="540">
 
 
-Tutorial :
+# Tutorial :
 
-[Youtube](https://www.youtube.com/watch?v=pw1GEJl7edU&list=PLMeCG4xYek-NxSGp2i2mINmeM7k1Rzj4U&index=2)
-
+[Youtube](https://youtu.be/l4POkXfIZpQ)
 Check My Tutorial & Course : [Watch](https://www.youtube.com/channel/UC0d_xINEvCtlDCpWfBpnYpA)
 
 Buat temen-temen yang mau request tutorial sederhana atau yang tingkatannya mini studi kasus kebawah, tulis aja di komentar nanti saya pertimbangkan untuk buat tutornya. 
