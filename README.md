@@ -1,16 +1,37 @@
 # uispeed_booking_apartment
+Flutter UI about Booking Apartment (Rent App)
 
-A new Flutter project.
+Flutter UI Speed, tapi ga terlalu cepet karena ada penjelasan untuk masing-masing kode, salah satu penggunaan best practice kayak gimana dan lainnya.
 
-## Getting Started
+[Asset](https://unsplash.com/)
+[Mockup Sample](https://www.uplabs.com/posts/rent-app)
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/indratrisnar/d_chart/raw/master/pic/pick1.jpg" alt="home_page" height="540">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://github.com/indratrisnar/d_chart/raw/master/pic/pick2.jpg" alt="detail_page" height="540">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Tutorial :
+
+[Youtube](https://www.youtube.com/watch?v=pw1GEJl7edU&list=PLMeCG4xYek-NxSGp2i2mINmeM7k1Rzj4U&index=2)
+
+Check My Tutorial & Course : [Watch](https://www.youtube.com/channel/UC0d_xINEvCtlDCpWfBpnYpA)
+
+Buat temen-temen yang mau request tutorial sederhana atau yang tingkatannya mini studi kasus kebawah, tulis aja di komentar nanti saya pertimbangkan untuk buat tutornya. 
+Jika dirasa studi kasus nya lumayan, nanti bisa jadi saya buat untuk level premium.
+
+Template UI and other source code premium :
+[Visit](https://indratrisnar.github.io/projects.html)
+
+Selain itu saya juga buka private course, bila berminat untuk belajar, beli source, dan custom app bisa hubungi saya melalui email :
+mintakoding@gmail.com
+drexappstudio@gmail.com
+
+## Support
+
+Support me for more feature & packages
+[Donate](https://www.paypal.com/paypalme/indratrisnar)
+
+
